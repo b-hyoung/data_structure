@@ -41,11 +41,7 @@
 
 ---
 
-## ✨ 예시 (1주차 - 배열/연결리스트)
-
-- `b-hyoung/array/ArrayWithIO.java`
-- `teammate/linkedlist/LinkedListWithIO.java`
-- `교차구현/b-hyoung/LinkedList_ReversePractice.java`
-- `교차구현/teammate/ArraySearchPractice.java`
-
 ---
+면접 질문을 "매일메일"이라는 앱을 통해 받아 하루에 한개씩 정리하여 서로 풀리퀘스트를 통해 질의/응답하여 수정하고 검사합니다.
+1일차 박형석 
+Clover 란 무엇인가?
